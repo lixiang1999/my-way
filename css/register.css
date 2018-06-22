@@ -1,0 +1,29 @@
+.userWidth{
+	width:110px;
+	display: inline-block;
+}
+
+.import_prompt{
+	border:solid 1px #ffcd00;
+	background-color:#ffffda;
+	padding-left:5px;
+	padding-right:5px;
+	line-height:20px;
+}
+
+.error_prompt{
+	border:solid 1px #ff3300;
+	background:#fff2e5 url(../images/li_err.gif)5px 2px  no-repeat;
+	padding:2px 5px 0px 25px;
+	line-height:20px;
+	
+
+}
+
+.ok_prompt{
+	border:solid 1px #01be00;
+	background:#e6fee4 url(../images/li_ok.gif) 5px 2px no-repeat;
+	padding:2px 5px 0px 25px;
+	line-height:20px;
+}
+
